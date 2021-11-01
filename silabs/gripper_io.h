@@ -10,7 +10,7 @@
 
  ============================================================
 
-   But:  Répertorier les IOs et les constantes nécessaire dans
+   But:  Rï¿½pertorier les IOs et les constantes nï¿½cessaire dans
          la partie gripper
 
 \============================================================*/
@@ -73,7 +73,7 @@
 // at 0x90 P1;   
 // at 0xA0 P2;   
 
-// P0.4 entrée diviseur batterie.
+// P0.4 entrï¿½e diviseur batterie.
 
 // to pompe a vide   
 
@@ -98,7 +98,3 @@
 
 
 #endif
-
-//-----------------------------------------------------------------------------
-// End Of File
-//-----------------------------------------------------------------------------

@@ -1,1 +1,0 @@
-This software is for the GripperBoard 2009. A specific electronic for Eurobot, CRH team. Each DSP TMS320F2806 can drive two DC actuators in position control. 
